@@ -14,6 +14,7 @@ Currently exploring Next.js and improving UI/UX skills.
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JS](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=next)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
